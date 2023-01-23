@@ -101,6 +101,6 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![output](calculator/static/images/cal.png)
 ## HTML VALIDATOR:
-![op](calculator/static/images/calval.jpg)
+![op](calculator/static/images/calval.png)
 ## RESULT:
 Thus a web application for standard calculator is designed.
